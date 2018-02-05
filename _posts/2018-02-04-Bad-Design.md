@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Bad Design: The Williams Course Catalog
 image: /img/thumbsdown.png
 ---
