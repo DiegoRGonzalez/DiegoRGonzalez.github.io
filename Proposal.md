@@ -16,6 +16,7 @@ When people are confronted with this issue, they go one of two routes. They eith
 Proposal:
 ---
 I propose a phone application that strikes a middle ground between the two approaches listed in our analysis above and assists in planning a walking tour of an unfamiliar city. Using information scraped from wikipedia and google maps, this app would suggest locations that are both interesting and nearby. Once at a location, the user is given facts about the location. Users then will select the next location, so on and so forth, learning about place that they are visiting in the process. This will allow users to efficiently go from place to place and see as much of the city as possible, while going at their own pace. If the user would like a restaurant or a public restroom, the application can suggest those locations as well. At the end of the day, the user will then have a path that they took through the city. This information can be then used by the app to possibly suggest popular routes to future tourists.
+
 Inspiration:
 ---
 The inspiration for this application came from the brainstorming activity that we did in class on 02/08/2018
