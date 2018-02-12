@@ -6,6 +6,8 @@ title: Take a Walk
 Problem:
 ---
 When visiting a new place, it is often difficult to plan out your day such that you are able to visit as many interesting locations as possible. This is due to the fact that you are new to this place and do not know which places are worth visiting. If a list of places are in fact given, choosing the most efficient path between them can be difficult as well.
+![](/img/sightseeing.jpg)
+'[Source](http://www.bikoadventures.com/wp-content/uploads/2016/10/Prague-Active-Discovery-Sightseeing-Team-Building-5.jpg)'
 
 Analysis:
 ---
