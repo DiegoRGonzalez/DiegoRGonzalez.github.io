@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SiteSeeing
+title: Take a Walk
 ---
 
 Problem:
